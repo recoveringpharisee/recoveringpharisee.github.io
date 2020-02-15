@@ -1,4 +1,5 @@
 const POSTS = [
+  //{ title: 'Lust at First Sight', path: 'lust-at-first-sight.txt' },
   { title: 'On Righteousness', path: 'on-righteousness.txt' }
 ]
 
